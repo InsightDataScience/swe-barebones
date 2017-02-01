@@ -4,3 +4,4 @@ pytest
 pylint
 pandas
 scikit-learn
+requests
