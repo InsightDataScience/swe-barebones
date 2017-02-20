@@ -7,7 +7,7 @@ This is a barebones framework to see how a repo with testing can be set up.
 
 git clone https://github.com/InsightDataScience/swe-barebones.git
 
-pip3 install -r -U requirements.txt
+pip3 install -r requirements.txt
 
 # Run it
 

@@ -5,3 +5,4 @@ pylint
 pandas
 scikit-learn
 requests
+jupyter
